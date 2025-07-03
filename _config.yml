@@ -18,6 +18,7 @@
 # You can add to this list any new parameter you wish, and access it anywhere in the templates.
 
 title: "Theory" # The site title
+theme: simply-cyan
 lang: en-GB # The site language
 encoding: utf-8
 description: "An amazing website" # The description of the site
